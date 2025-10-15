@@ -1,6 +1,6 @@
-# Konstant Kreative Landing Page
+# Creative Services Agency Business Landing Page
 
-A modern, responsive landing page built with React and Tailwind CSS for Konstant Kreative - a premier creative services agency.
+A modern, responsive landing page built with React and Tailwind CSS for Creative Services Agency Business - a premier creative services agency.
 
 ## Features
 
@@ -87,4 +87,4 @@ Update content directly in the component files:
 
 ## License
 
-Private - Konstant Kreative © 2024
+Private - Creative Services Agency Business © 2024
